@@ -6,7 +6,7 @@ var randomImage = Math.floor(Math.random() * (images.length-1)) + 1
     $("#this p").text(beep);
 });
 var final = ['','','','','','',''];	
-var words = [
+var words = [  
 	['forged', 'crafted', 'ethically produced', 
 	'fabricated', 'fashioned', 'designed', 'produced', 
 	'hand crafted', 'lovingly', 'transcribed','built from the ground up', 
